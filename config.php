@@ -1,8 +1,8 @@
 <?php
 
-$host="localhost";
+$host="db";
 $user="root";
-$pass="";
+$pass="1test2";
 $db="chat";
 
 $con=mysqli_connect($host,$user,$pass,$db);
